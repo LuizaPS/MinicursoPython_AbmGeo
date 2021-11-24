@@ -9,10 +9,7 @@ Manaus
 Fortaleza
 Maceió
 São Paulo
-Rio de Janeiro
 Maceió
-Tamandaré
-Porto Alegre
 Niterói
 Fortaleza
 Balneário Camburiu
@@ -27,8 +24,6 @@ Niterói
 Belo Horizonte
 Belém
 Manaus
-São Luís
-Fernado de Noronha
 Goiânia
 Belo Horizonte
 Porto Alegre
@@ -38,7 +33,6 @@ Santos
 Tamandaré
 Florianópolis
 Maceió
-Rio de Janeiro
 Vitória
 Fernado de Noronha
 Maceió
@@ -48,8 +42,6 @@ Recife
 Balneário Camburiu
 Maceió
 Niterói
-Vitória
-Belo Horizonte
 Belo Horizonte
 Santos
 São Luís
@@ -72,13 +64,6 @@ Tamandaré
 Balneário Camburiu
 Curitiba
 Rio de Janeiro
-Santos
-Curitiba
-Florianópolis
-Porto Alegre
-Fernado de Noronha
-Florianópolis
-Manaus
 Tamandaré
 Tamandaré
 Rio de Janeiro
@@ -87,9 +72,6 @@ Goiânia
 Fortaleza
 Tamandaré
 Niterói
-Fortaleza
-Balneário Camburiu
-Belém
 Rio de Janeiro
 Campinas
 Manaus
@@ -112,9 +94,6 @@ Goiânia
 Porto Alegre
 Manaus
 São Luís
-Rio de Janeiro
-Fortaleza
-São Paulo
 Santos
 Vitória
 Balneário Camburiu
@@ -127,13 +106,9 @@ Florianópolis
 Rio de Janeiro
 Recife
 Recife
-São Paulo
 Manaus
 Belo Horizonte
 Fernado de Noronha
-Belém
-Vitória
-São Paulo
 São Paulo
 São Paulo
 Belo Horizonte
@@ -167,10 +142,6 @@ Fortaleza
 Manaus
 Florianópolis
 Belo Horizonte
-Goiânia
-Fortaleza
-São Paulo
-Campinas
 Recife
 Maceió
 São Luís
@@ -196,16 +167,10 @@ Rio de Janeiro
 Niterói
 Curitiba
 Maceió
-São Paulo
-Campinas
-Fernado de Noronha
 Goiânia
 São Luís
 Belém
 Campinas
-Balneário Camburiu
-Rio de Janeiro
-São Paulo
 Recife
 Belém
 São Luís
